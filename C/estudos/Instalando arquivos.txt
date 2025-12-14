@@ -1,0 +1,6 @@
+1) Instale o VScode
+2) Intale o msys2
+3) Abra o MSYS2 UCRT64 (não o MSYS2 normal).
+4) Rode os comandos:
+	pacman -Syu
+	pacman -S mingw-w64-ucrt-x86_64-gcc mingw-w64-ucrt-x86_64-gdb
